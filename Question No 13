@@ -1,0 +1,19 @@
+Input:
+
+# Task 13: Meal items and calories
+meals = {
+    "Burger": 550,
+    "Pizza": 700,
+    "Salad": 200,
+    "Pasta": 450,
+    "Sandwich": 350
+}
+meals["Sushi"] = 300
+print("All meals:")
+print(meals)
+print()
+
+Output:
+
+All meals:
+{'Burger': 550, 'Pizza': 700, 'Salad': 200, 'Pasta': 450, 'Sandwich': 350, 'Sushi': 300}
