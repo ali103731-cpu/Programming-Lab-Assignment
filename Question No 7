@@ -1,0 +1,19 @@
+Input:
+
+# Task 7: Fruits and prices
+fruits = {
+    "Apple": 120,
+    "Banana": 50,
+    "Orange": 80,
+    "Mango": 150,
+    "Grapes": 100
+}
+fruits["Strawberry"] = 200
+print("All fruits:")
+print(fruits)
+print()
+
+Output:
+
+All fruits:
+{'Apple': 120, 'Banana': 50, 'Orange': 80, 'Mango': 150, 'Grapes': 100, 'Strawberry': 200}
