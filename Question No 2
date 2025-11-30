@@ -1,0 +1,21 @@
+Input
+
+# Task 2: Employees and salary
+employees = {
+    "John": 50000,
+    "Sarah": 65000,
+    "Mike": 55000
+}
+print("Before change:")
+print(employees)
+employees["Sarah"] = 70000
+print("After change:")
+print(employees)
+print()
+
+Output
+
+Before change:
+{'John': 50000, 'Sarah': 65000, 'Mike': 55000}
+After change:
+{'John': 50000, 'Sarah': 70000, 'Mike': 55000}
