@@ -1,0 +1,19 @@
+Input:
+
+# Task 12: Cars and companies
+cars = {
+    "Mustang": "Ford",
+    "Civic": "Honda",
+    "Corolla": "Toyota",
+    "Model S": "Tesla",
+    "Camaro": "Chevrolet"
+}
+cars["Civic"] = "Honda Motors"
+print("Updated cars:")
+print(cars)
+print()
+
+Output:
+
+Updated cars:
+{'Mustang': 'Ford', 'Civic': 'Honda Motors', 'Corolla': 'Toyota', 'Model S': 'Tesla', 'Camaro': 'Chevrolet'}
