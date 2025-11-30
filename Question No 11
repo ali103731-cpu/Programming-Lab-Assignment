@@ -14,7 +14,6 @@ print("Resilient:", words["Resilient"])
 print("Ambiguous:", words["Ambiguous"])
 print("Pragmatic:", words["Pragmatic"])
 print("Euphoria:", words["Euphoria"])
-print()
 
 Output:
 
