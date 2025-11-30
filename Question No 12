@@ -11,7 +11,6 @@ cars = {
 cars["Civic"] = "Honda Motors"
 print("Updated cars:")
 print(cars)
-print()
 
 Output:
 
