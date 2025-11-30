@@ -1,0 +1,26 @@
+Input:
+
+# Task 10: Players and scores
+players = {
+    "Virat": 8500,
+    "Rohit": 7800,
+    "Dhoni": 9200,
+    "Kohli": 8100,
+    "Bumrah": 3500
+}
+print("Player scores:")
+print("Virat:", players["Virat"])
+print("Rohit:", players["Rohit"])
+print("Dhoni:", players["Dhoni"])
+print("Kohli:", players["Kohli"])
+print("Bumrah:", players["Bumrah"])
+print()
+
+Output:
+
+Player scores:
+Virat: 8500
+Rohit: 7800
+Dhoni: 9200
+Kohli: 8100
+Bumrah: 3500
