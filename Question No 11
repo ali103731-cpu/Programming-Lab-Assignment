@@ -1,0 +1,26 @@
+Input:
+
+# Task 11: English words and meanings
+words = {
+    "Eloquent": "Good at speaking",
+    "Resilient": "Strong and recovers fast",
+    "Ambiguous": "Not clear",
+    "Pragmatic": "Practical",
+    "Euphoria": "Very happy feeling"
+}
+print("Word meanings:")
+print("Eloquent:", words["Eloquent"])
+print("Resilient:", words["Resilient"])
+print("Ambiguous:", words["Ambiguous"])
+print("Pragmatic:", words["Pragmatic"])
+print("Euphoria:", words["Euphoria"])
+print()
+
+Output:
+
+Word meanings:
+Eloquent: Good at speaking
+Resilient: Strong and recovers fast
+Ambiguous: Not clear
+Pragmatic: Practical
+Euphoria: Very happy feeling
