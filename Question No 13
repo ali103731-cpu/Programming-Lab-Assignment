@@ -11,7 +11,6 @@ meals = {
 meals["Sushi"] = 300
 print("All meals:")
 print(meals)
-print()
 
 Output:
 
