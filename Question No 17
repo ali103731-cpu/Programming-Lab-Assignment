@@ -14,7 +14,6 @@ print("Venus:", planets["Venus"])
 print("Earth:", planets["Earth"])
 print("Mars:", planets["Mars"])
 print("Jupiter:", planets["Jupiter"])
-print()
 
 Output:
 
