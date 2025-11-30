@@ -1,0 +1,17 @@
+Input:
+
+# Task 9: Laptops and model numbers
+laptops = {
+    "Dell": "XPS-15-9520",
+    "HP": "Pavilion-14-DV2075",
+    "Lenovo": "ThinkPad-X1-Carbon"
+}
+laptops["HP"] = "Envy-13-BA1234"
+print("Updated laptops:")
+print(laptops)
+print()
+
+Output:
+
+Updated laptops:
+{'Dell': 'XPS-15-9520', 'HP': 'Envy-13-BA1234', 'Lenovo': 'ThinkPad-X1-Carbon'}
