@@ -9,7 +9,6 @@ laptops = {
 laptops["HP"] = "Envy-13-BA1234"
 print("Updated laptops:")
 print(laptops)
-print()
 
 Output:
 
