@@ -1,0 +1,19 @@
+Input:
+
+# Task 19: Actors and number of movies
+actors = {
+    "Tom Hanks": 80,
+    "Leonardo DiCaprio": 45,
+    "Meryl Streep": 70,
+    "Denzel Washington": 60,
+    "Jennifer Lawrence": 35
+}
+actors["Brad Pitt"] = 75
+print("All actors:")
+print(actors)
+print()
+
+Output:
+
+All actors:
+{'Tom Hanks': 80, 'Leonardo DiCaprio': 45, 'Meryl Streep': 70, 'Denzel Washington': 60, 'Jennifer Lawrence': 35, 'Brad Pitt': 75}
