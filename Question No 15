@@ -1,0 +1,26 @@
+Input:
+
+# Task 15: Friends and birthdays
+friends = {
+    "Ali": "15th March",
+    "Moiz": "22nd July",
+    "Bilal": "10th December",
+    "Azan": "5th January",
+    "Awais": "18th September"
+}
+print("Friends birthdays:")
+print("Ali:", friends["Ali"])
+print("Moiz:", friends["Moiz"])
+print("Bilal:", friends["Bilal"])
+print("Azan:", friends["Azan"])
+print("Awais:", friends["Awais"])
+print()
+
+Output:
+
+Friends birthdays:
+Ali: 15th March
+Moiz: 22nd July
+Bilal: 10th December
+Azan: 5th January
+Awais: 18th September
