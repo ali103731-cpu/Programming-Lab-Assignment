@@ -1,0 +1,19 @@
+Input
+
+# Task 6: Usernames and passwords
+users = {
+    "alice123": "pass@123",
+    "bob_2024": "secure456",
+    "charlie99": "mypass789",
+    "diana_smith": "welcome2024",
+    "eve_jones": "password321"
+}
+users["bob_2024"] = "newSecure999"
+print("Updated users:")
+print(users)
+print()
+
+Output
+
+Updated users:
+{'alice123': 'pass@123', 'bob_2024': 'newSecure999', 'charlie99': 'mypass789', 'diana_smith': 'welcome2024', 'eve_jones': 'password321'}
