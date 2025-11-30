@@ -1,0 +1,26 @@
+Input 
+
+# Task 5: Animals and sounds
+animals = {
+    "Dog": "Bark",
+    "Cat": "Meow",
+    "Cow": "Moo",
+    "Lion": "Roar",
+    "Duck": "Quack"
+}
+print("Animals and sounds:")
+print("Dog:", animals["Dog"])
+print("Cat:", animals["Cat"])
+print("Cow:", animals["Cow"])
+print("Lion:", animals["Lion"])
+print("Duck:", animals["Duck"])
+print()
+
+Output
+
+Animals and sounds:
+Dog: Bark
+Cat: Meow
+Cow: Moo
+Lion: Roar
+Duck: Quack
