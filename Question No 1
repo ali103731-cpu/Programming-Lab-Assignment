@@ -1,0 +1,25 @@
+Input
+# Task 1: Books and authors
+books = {
+    "To Kill a Mockingbird": "Harper Lee",
+    "1984": "George Orwell",
+    "Pride and Prejudice": "Jane Austen",
+    "The Great Gatsby": "F. Scott Fitzgerald",
+    "Moby Dick": "Herman Melville"
+}
+print("Books and authors:")
+print("To Kill a Mockingbird by", books["To Kill a Mockingbird"])
+print("1984 by", books["1984"])
+print("Pride and Prejudice by", books["Pride and Prejudice"])
+print("The Great Gatsby by", books["The Great Gatsby"])
+print("Moby Dick by", books["Moby Dick"])
+print()
+
+Output:
+
+Books and authors:
+To Kill a Mockingbird by Harper Lee
+1984 by George Orwell
+Pride and Prejudice by Jane Austen
+The Great Gatsby by F. Scott Fitzgerald
+Moby Dick by Herman Melville
