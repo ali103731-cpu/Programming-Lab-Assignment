@@ -14,7 +14,6 @@ print("Cat:", animals["Cat"])
 print("Cow:", animals["Cow"])
 print("Lion:", animals["Lion"])
 print("Duck:", animals["Duck"])
-print()
 
 Output
 
