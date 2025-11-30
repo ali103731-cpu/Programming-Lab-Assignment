@@ -1,0 +1,19 @@
+Input:
+
+# Task 8: Apps and ratings
+apps = {
+    "Instagram": 4.5,
+    "Facebook": 4.2,
+    "Twitter": 4.0,
+    "Snapchat": 4.3,
+    "TikTok": 4.6
+}
+if "WhatsApp" in apps:
+    print("WhatsApp found")
+else:
+    print("WhatsApp not found")
+print()
+
+Output:
+
+WhatsApp not found
