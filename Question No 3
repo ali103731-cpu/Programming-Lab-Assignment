@@ -1,0 +1,26 @@
+Input
+
+# Task 3: Movies and release years
+movies = {
+    "The Shawshank Redemption": 1994,
+    "Inception": 2010,
+    "The Dark Knight": 2008,
+    "Pulp Fiction": 1994,
+    "Forrest Gump": 1994
+}
+print("Movies and years:")
+print("The Shawshank Redemption:", movies["The Shawshank Redemption"])
+print("Inception:", movies["Inception"])
+print("The Dark Knight:", movies["The Dark Knight"])
+print("Pulp Fiction:", movies["Pulp Fiction"])
+print("Forrest Gump:", movies["Forrest Gump"])
+print()
+
+Output
+
+Movies and years:
+The Shawshank Redemption: 1994
+Inception: 2010
+The Dark Knight: 2008
+Pulp Fiction: 1994
+Forrest Gump: 1994
