@@ -1,0 +1,25 @@
+Input:
+
+# Task 20: Songs and durations
+songs = {
+    "Bohemian Rhapsody": "5:55",
+    "Imagine": "3:03",
+    "Hotel California": "6:30",
+    "Smells Like Teen Spirit": "5:01",
+    "Billie Jean": "4:54"
+}
+print("Song durations:")
+print("Bohemian Rhapsody:", songs["Bohemian Rhapsody"])
+print("Imagine:", songs["Imagine"])
+print("Hotel California:", songs["Hotel California"])
+print("Smells Like Teen Spirit:", songs["Smells Like Teen Spirit"])
+print("Billie Jean:", songs["Billie Jean"])
+
+Output:
+
+Song durations:
+Bohemian Rhapsody: 5:55
+Imagine: 3:03
+Hotel California: 6:30
+Smells Like Teen Spirit: 5:01
+Billie Jean: 4:54
