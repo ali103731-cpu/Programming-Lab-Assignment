@@ -11,7 +11,6 @@ actors = {
 actors["Brad Pitt"] = 75
 print("All actors:")
 print(actors)
-print()
 
 Output:
 
