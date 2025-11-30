@@ -1,0 +1,19 @@
+Input:
+
+# Task 18: Languages and countries
+languages = {
+    "Spanish": "Spain",
+    "French": "France",
+    "German": "Germany",
+    "Japanese": "Japan",
+    "Arabic": "Saudi Arabia"
+}
+languages["French"] = "France and Belgium"
+print("Updated languages:")
+print(languages)
+print()
+
+Output:
+
+Updated languages:
+{'Spanish': 'Spain', 'French': 'France and Belgium', 'German': 'Germany', 'Japanese': 'Japan', 'Arabic': 'Saudi Arabia'}
