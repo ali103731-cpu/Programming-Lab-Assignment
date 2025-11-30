@@ -1,0 +1,26 @@
+Input:
+
+# Task 17: Planets and distance from Sun
+planets = {
+    "Mercury": "57.9 million km",
+    "Venus": "108.2 million km",
+    "Earth": "149.6 million km",
+    "Mars": "227.9 million km",
+    "Jupiter": "778.5 million km"
+}
+print("Planet distances:")
+print("Mercury:", planets["Mercury"])
+print("Venus:", planets["Venus"])
+print("Earth:", planets["Earth"])
+print("Mars:", planets["Mars"])
+print("Jupiter:", planets["Jupiter"])
+print()
+
+Output:
+
+Planet distances:
+Mercury: 57.9 million km
+Venus: 108.2 million km
+Earth: 149.6 million km
+Mars: 227.9 million km
+Jupiter: 778.5 million km
