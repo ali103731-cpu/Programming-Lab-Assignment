@@ -1,4 +1,5 @@
-Input
+Input:
+
 # Task 1: Books and authors
 books = {
     "To Kill a Mockingbird": "Harper Lee",
@@ -13,7 +14,6 @@ print("1984 by", books["1984"])
 print("Pride and Prejudice by", books["Pride and Prejudice"])
 print("The Great Gatsby by", books["The Great Gatsby"])
 print("Moby Dick by", books["Moby Dick"])
-print()
 
 Output:
 
