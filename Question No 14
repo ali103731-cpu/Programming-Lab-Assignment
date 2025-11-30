@@ -1,0 +1,19 @@
+Input:
+
+# Task 14: Countries and currencies
+countries = {
+    "USA": "Dollar",
+    "UK": "Pound",
+    "Japan": "Yen",
+    "Canada": "Canadian Dollar",
+    "Australia": "Australian Dollar"
+}
+if "India" in countries:
+    print("India is included")
+else:
+    print("India is not included")
+print()
+
+Output:
+
+India is not included
