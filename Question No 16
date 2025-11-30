@@ -11,7 +11,6 @@ sports = {
 sports["Basketball"] = 12
 print("Updated sports:")
 print(sports)
-print()
 
 Output:
 
