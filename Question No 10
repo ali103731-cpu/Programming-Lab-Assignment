@@ -14,7 +14,6 @@ print("Rohit:", players["Rohit"])
 print("Dhoni:", players["Dhoni"])
 print("Kohli:", players["Kohli"])
 print("Bumrah:", players["Bumrah"])
-print()
 
 Output:
 
