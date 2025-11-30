@@ -1,0 +1,18 @@
+Input:
+
+# Task 22: Mobile brands and top models
+mobiles = {
+    "Apple": "iPhone 15 Pro Max",
+    "Samsung": "Galaxy S24 Ultra",
+    "OnePlus": "OnePlus 12",
+    "Xiaomi": "Xiaomi 14 Pro",
+    "Google": "Pixel 8 Pro"
+}
+if "Oppo" in mobiles:
+    print("Oppo exists")
+else:
+    print("Oppo does not exist")
+
+Output:
+
+Oppo does not exist
